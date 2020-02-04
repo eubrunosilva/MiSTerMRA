@@ -1,19 +1,19 @@
 # Library of MRA Mambo Jambo for MiSTer FPGA
 
-Last Update: 2020-02-04 23:09
+Last Update: 2020-02-04 23:34
 
 - XML files to use with RomVault or others to see what zip files you need from Mame/HBMame (my advice for Mame is to use Merged/Non-Merged set - but only one)
 - Packs with MRA files (Others/Betas, Jotego, System1 from MrX, Officials - Full set/Only Parent Games/Only Alternative versions/Hacks)
 
 ## Arcade Games (169)
 
-|Game|rbf|Type|
+|Game|core|Type|
 |-|-|-|
 |1942|jt1942|Jotego|
-|1943 Kai: Midway Kaisen|jt1943|Jotego|
-|1943: The Battle of Midway|jt1943|Jotego|
-|1943: The Battle of Midway Mark II|jt1943|Jotego|
-|4-D Warriors|segasys1|System1|
+|1943 Kai Midway Kaisen|jt1943|Jotego|
+|1943 The Battle of Midway|jt1943|Jotego|
+|1943 The Battle of Midway Mark II|jt1943|Jotego|
+|4-D Warriors|segasys1|Others|
 |Ali Baba and 40 Thieves|pacman|Official|
 |Amidar|scramble|Official|
 |Anteater|scramble|Official|
@@ -32,9 +32,9 @@ Last Update: 2020-02-04 23:09
 |Black Tiger|jtbtiger|Jotego|
 |Black Widow|blackwidow|Others|
 |Bomb Jack|bombjack|Official|
-|Botanic (English / Spanish, set 1)|bagman|Official|
+|Botanic|bagman|Official|
 |Bubbles|bubbles|Official|
-|Bullfight|segasys1|System1|
+|Bullfight|segasys1|Others|
 |Burger Time|burgertime|Official|
 |Burnin' Rubber|burningrubber|Official|
 |Calipso|scramble|Official|
@@ -50,7 +50,7 @@ Last Update: 2020-02-04 23:09
 |Crush Roller|pacman|Official|
 |Defender|defender|Official|
 |Demolition Derby|mcr3mono|Official|
-|Devil Fish (Galaxian hardware, bootleg?)|galaxian|Official|
+|Devil Fish|galaxian|Official|
 |Dig Dug|digdug|Official|
 |Dig Dug II|druaga|Official|
 |Discs of Tron|mcr3|Official|
@@ -67,7 +67,7 @@ Last Update: 2020-02-04 23:09
 |Eggor|pacman|Official|
 |Eyes|pacman|Official|
 |F-1 Dream|jtf1dream|Jotego|
-|Flicky|segasys1|System1|
+|Flicky|segasys1|Others|
 |Food Fight|foodfight|Official|
 |Frenzy|frenzy|Official|
 |Frogger|scramble|Official|
@@ -78,7 +78,7 @@ Last Update: 2020-02-04 23:09
 |Gorkans|pacman|Official|
 |Green Beret|rshnatk|Official|
 |Gun.Smoke|jtgunsmoke|Jotego|
-|I'm Sorry|segasys1|System1|
+|I'm Sorry|segasys1|Others|
 |Jin|jin|Official|
 |Journey|mcr3|Official|
 |Joust|joust|Official|
@@ -94,7 +94,7 @@ Last Update: 2020-02-04 23:09
 |Mappy|druaga|Official|
 |Max RPM|mcr3mono|Official|
 |Mayday|mayday|Official|
-|Mister Viking|segasys1|System1|
+|Mister Viking|segasys1|Others|
 |Moon Cresta|galaxian|Official|
 |Moon Patrol|moonpatrol|Official|
 |Moonwar|scramble|Official|
@@ -102,58 +102,58 @@ Last Update: 2020-02-04 23:09
 |Mr. Goemon|rshnatk|Official|
 |Mr. TNT|pacman|Official|
 |Ms. Pac-Man|pacman|Official|
-|My Hero|segasys1|System1|
+|My Hero|segasys1|Others|
 |New Rally X|rallyx|Official|
 |Ninjakun Majou no Bouken|ninjakun|Official|
 |Omega|galaxian|Official|
 |Orbitron|galaxian|Official|
-|Pacman Club / Club Lambada (Argentina)|pacman|Official|
+|Pacman Club|pacman|Official|
 |Pac-Man Plus|pacman|Official|
 |Pengo|pengo|Official|
 |Phoenix|phoenix|Official|
 |Pickin'|bagman|Official|
 |Pisces|galaxian|Official|
-|Pitfall II|segasys1|System1|
+|Pitfall II|segasys1|Others|
 |Pleiads|pleiads|Official|
 |Ponpoko|pacman|Official|
 |Pooyan|pooyan|Official|
 |Popeye|jtpopeye|Jotego|
 |Power Drive|mcr3mono|Official|
 |Pacman|pacman|Official|
-|Rafflesia|segasys1|System1|
+|Rafflesia|segasys1|Others|
 |Rally X|rallyx|Official|
 |Rampage|mcr3mono|Official|
-|Regulus|segasys1|System1|
+|Regulus|segasys1|Others|
 |River Patrol|riverpatrol|Official|
-|Robotron: 2084|robotron|Official|
+|Robotron 2084|robotron|Official|
 |Rygar|rygar|Others|
 |Sarge|mcr3mono|Official|
 |Satan's Hollow|mcr2|Official|
 |Scramble|scramble|Official|
-|Sega Ninja|segasys1|System1|
+|Sega Ninja|segasys1|Others|
 |Silver Land|silverland|Official|
 |Sinistar|sinistar|Official|
 |Snap Jack|snapjack|Official|
 |Solar Fox|mcr1|Official|
 |Solomon's Key|solomonskey|Official|
-|Space Invaders / Space Invaders M|invaders|Others|
-|Spatter|segasys1|System1|
+|Space Invaders|invaders|Others|
+|Spatter|segasys1|Others|
 |Speed Coin|scramble|Official|
 |Splat!|splat|Official|
 |Sprint 1|sprint1|Official|
 |Sprint 2|sprint2|Official|
 |Spy Hunter|mcr3scroll|Official|
 |Squash|bagman|Official|
-|Star Jacker|segasys1|System1|
+|Star Jacker|segasys1|Others|
 |Stargate|stargate|Official|
 |Super Bagman|bagman|Official|
 |Super Breakout|superbreakout|Official|
 |Super Cobra|scramble|Official|
 |Super Glob|pacman|Official|
-|SWAT|segasys1|System1|
+|SWAT|segasys1|Others|
 |Tapper|mcr3|Official|
 |Tazz-Mania|scramble|Official|
-|TeddyBoy Blues|segasys1|System1|
+|TeddyBoy Blues|segasys1|Others|
 |Tetris|ataritetris|Official|
 |The End|scramble|Official|
 |The Glob|pacman|Official|
@@ -161,27 +161,27 @@ Last Update: 2020-02-04 23:09
 |Tiger Road|jttora|Jotego|
 |Timber|mcr3|Official|
 |Time Pilot|timepilot|Official|
-|Traverse USA / Zippy Race|traverseusa|Official|
+|Traverse USA|traverseusa|Official|
 |Tron|mcr2|Official|
 |Turbo Tag|mcr3scroll|Official|
 |Two Tigers|mcr2|Official|
 |Ultra Tank|ultratank|Official|
 |UniWar S|galaxian|Official|
-|Up'n Down|segasys1|System1|
+|Up'n Down|segasys1|Others|
 |Van-Van Car|pacman|Official|
 |Victory|galaxian|Official|
 |Vulgus|jtvulgus|Jotego|
 |Wacko|mcr2|Official|
 |War of the Bugs|galaxian|Official|
-|Water Match|segasys1|System1|
-|Wonder Boy|segasys1|System1|
+|Water Match|segasys1|Others|
+|Wonder Boy|segasys1|Others|
 |Woodpecker|pacman|Official|
 |Xevious|xevious|Official|
 |Zig Zag|zigzag|Official|
 
 ## Alternative Arcade Games (546)
 
-|Game|rbf|Type|
+|Game|core|Type|
 |-|-|-|
 |1942 (First Version)|jt1942|Jotego|
 |1942 (Galaga X)|jt1942|Jotego|
