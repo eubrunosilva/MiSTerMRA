@@ -1,11 +1,11 @@
 # Library of MRA Mambo Jambo for MiSTer FPGA
 
-Last Update: 2020-02-04 23:34
+Last Update: 2020-02-11 23:32
 
 - XML files to use with RomVault or others to see what zip files you need from Mame/HBMame (my advice for Mame is to use Merged/Non-Merged set - but only one)
 - Packs with MRA files (Others/Betas, Jotego, System1 from MrX, Officials - Full set/Only Parent Games/Only Alternative versions/Hacks)
 
-## Arcade Games (169)
+## Arcade Games (177)
 
 |Game|core|Type|
 |-|-|-|
@@ -48,6 +48,7 @@ Last Update: 2020-02-04 23:34
 |Crazy Climber|crazyclimber|Official|
 |Crazy Kong Part II|crazykong|Official|
 |Crush Roller|pacman|Official|
+|Dark Planet|scramble|Official|
 |Defender|defender|Official|
 |Demolition Derby|mcr3mono|Official|
 |Devil Fish|galaxian|Official|
@@ -92,8 +93,11 @@ Last Update: 2020-02-04 23:34
 |Lucky Today|galaxian|Official|
 |Lunar Lander|lunarlander|Official|
 |Mappy|druaga|Official|
+|Mars|scramble|Official|
 |Max RPM|mcr3mono|Official|
 |Mayday|mayday|Official|
+|Mighty Monkey|scramble|Official|
+|Minefield|scramble|Official|
 |Mister Viking|segasys1|Others|
 |Moon Cresta|galaxian|Official|
 |Moon Patrol|moonpatrol|Official|
@@ -124,6 +128,7 @@ Last Update: 2020-02-04 23:34
 |Rally X|rallyx|Official|
 |Rampage|mcr3mono|Official|
 |Regulus|segasys1|Others|
+|Rescue|scramble|Official|
 |River Patrol|riverpatrol|Official|
 |Robotron 2084|robotron|Official|
 |Rygar|rygar|Others|
@@ -144,8 +149,10 @@ Last Update: 2020-02-04 23:34
 |Sprint 2|sprint2|Official|
 |Spy Hunter|mcr3scroll|Official|
 |Squash|bagman|Official|
+|Star Guards|mcr3mono|Official|
 |Star Jacker|segasys1|Others|
 |Stargate|stargate|Official|
+|Strategy X|scramble|Official|
 |Super Bagman|bagman|Official|
 |Super Breakout|superbreakout|Official|
 |Super Cobra|scramble|Official|
@@ -164,6 +171,7 @@ Last Update: 2020-02-04 23:34
 |Traverse USA|traverseusa|Official|
 |Tron|mcr2|Official|
 |Turbo Tag|mcr3scroll|Official|
+|Turtles|scramble|Official|
 |Two Tigers|mcr2|Official|
 |Ultra Tank|ultratank|Official|
 |UniWar S|galaxian|Official|
@@ -179,7 +187,7 @@ Last Update: 2020-02-04 23:34
 |Xevious|xevious|Official|
 |Zig Zag|zigzag|Official|
 
-## Alternative Arcade Games (546)
+## Alternative Arcade Games (549)
 
 |Game|core|Type|
 |-|-|-|
@@ -201,6 +209,7 @@ Last Update: 2020-02-04 23:34
 |Alien Invasion|invaders|Others|
 |Alien Invasion Part II|invaders|Others|
 |Andromeda|galaxian|Official|
+|Apocaljpse Now (bootleg of Rescue)|scramble|Official|
 |Argus no Senshi (Japan)|rygar|Others|
 |Argus no Senshi (Translation Chinese)|rygar|Others|
 |Argus no Senshi (Translation Korean)|rygar|Others|
@@ -633,6 +642,8 @@ Last Update: 2020-02-04 23:34
 |Star Jacker (Stern Electronics)|segasys1|System1|
 |Starfighter II|galaxian|Official|
 |Starslayer (hack of Asteroids (rev 2))|asteroids|Official|
+|Strategy X (Stern Electronics)|scramble|Official|
+|Strong X|scramble|Official|
 |Summertime Elton|pacman|Official|
 |Summertime Elton (old)|pacman|Official|
 |Super Bagman (Stern Electronics)|bagman|Official|

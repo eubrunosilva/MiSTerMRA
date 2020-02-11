@@ -5,7 +5,7 @@
 	<header>
 		<name>MAME ROMs (nonmerged)</name>
 		<description>MAME ROMs (nonmerged)</description>
-		<version>20200204202639</version>
+		<version>20200210193929</version>
 		<author>Bruno Silva</author>
 	</header>
 	<machine name="4dwarrio">
@@ -646,6 +646,21 @@
 		<rom name="ra4-5d" size="2048" crc="af4e5ffe" sha1="62717a233cf9f58267af4a9e1c80479b373ab317"/>
 		<rom name="ra6-5f" size="2048" crc="4c3f8a08" sha1="3152eef64903be1a82f09764821a3654f316197d"/>
 		<rom name="ra6-5h" size="2048" crc="b30c7c9f" sha1="d4ae040d1fd7e5a5d08c2f6968735c551119c207"/>
+	</machine>
+	<machine name="aponow">
+		<description>Apocaljpse Now (bootleg of Rescue)</description>
+		<year>1982</year>
+		<manufacturer>bootleg</manufacturer>
+		<rom name="aponow01.rom" size="4096" crc="33011579" sha1="62bd821f6e0968a5ed9cbab26a8bff31e707f07a"/>
+		<rom name="aponow02.rom" size="4096" crc="d477573e" sha1="e5deb62f2763ff81e9ca24df67b0539cca8ba714"/>
+		<rom name="aponow03.rom" size="4096" crc="46c41898" sha1="c501f1d75762cfeda68e178e70cdf7eb423005fe"/>
+		<rom name="rb15csnd.bin" size="2048" crc="8b24bf17" sha1="cc49fef3c629c12f1a7eb9886fdc2df4b08f4b37"/>
+		<rom name="rb15dcpu.bin" size="4096" crc="d6505742" sha1="804df84ea507bf41e9376a7ce63a278c3701f0cd"/>
+		<rom name="rb15dsnd.bin" size="2048" crc="d96e4fb3" sha1="8bb023c7c668f93d2333d648fc3cefdbd66f92db"/>
+		<rom name="rb15ecpu.bin" size="4096" crc="604df3a4" sha1="15790fa442538632f232280c096ac788d9bf8117"/>
+		<rom name="rb15fcpu.bin" size="2048" crc="4489d20c" sha1="c7a2afbd2e5645a1a25dec6147d61a38ba12380f"/>
+		<rom name="rb15hcpu.bin" size="2048" crc="5512c547" sha1="e0f1c994daaa8933230cbc4bb88d459a698e0d8e"/>
+		<rom name="rescue.clr" size="32" crc="40c6bcbd" sha1="cb0c058eadc37eba4b1a99be095da81a14099d8d"/>
 	</machine>
 	<machine name="arkangc2">
 		<description>Arkanoid (Game Corporation bootleg, set 2)</description>
@@ -2452,6 +2467,23 @@
 		<rom name="crushkrl.6j" size="4096" crc="d59fc251" sha1="024605e4485b0ac826217256e5356ed9a6c8ef34"/>
 		<rom name="maketrax.5e" size="4096" crc="91bad2da" sha1="096197d0cb6d55bf72b5be045224f4bd6a9cfa1b"/>
 		<rom name="maketrax.5f" size="4096" crc="aea79f55" sha1="279021e6771dfa5bd0b7c557aae44434286d91b7"/>
+	</machine>
+	<machine name="darkplnt">
+		<description>Dark Planet</description>
+		<year>1982</year>
+		<manufacturer>Stern Electronics</manufacturer>
+		<rom name="5c.snd" size="4096" crc="672b9454" sha1="2b2ec06d62ff5f19a1c802152c798940631fb1d6"/>
+		<rom name="6e.cpu" size="32" crc="86b6e124" sha1="76cc422aeb53a4970f91bd5eb00a3e24a76c09d1"/>
+		<rom name="drkplt2c.dat" size="4096" crc="5a0ca559" sha1="cf77bda30bb08633d274c22734a8f186520ddf7d"/>
+		<rom name="drkplt2e.dat" size="4096" crc="52e2117d" sha1="774e8ee84316135313c4b66c51d21c1661f345b3"/>
+		<rom name="drkplt2g.dat" size="4096" crc="4093219c" sha1="cc92ec4ec8661993173daedfa521252a6e34073d"/>
+		<rom name="drkplt2j.dat" size="4096" crc="b974c78d" sha1="af4c1b21ca8651bfc343a24a106db4c82f0052e7"/>
+		<rom name="drkplt2k.dat" size="4096" crc="71a37385" sha1="a6a358b2f7daa2eaa5bdf96aa903619376473b20"/>
+		<rom name="drkplt2l.dat" size="4096" crc="5ad25154" sha1="20b1347ed5fca108303132d28ae73fc4d71b4e5a"/>
+		<rom name="drkplt2m.dat" size="4096" crc="8d2f0122" sha1="59280abca22fd3d7af53aebf56a9e37eeb7cb11c"/>
+		<rom name="drkplt2p.dat" size="4096" crc="2d66253b" sha1="445c00a74551732fd02df2d5879688f9984931b5"/>
+		<rom name="drkplt5f.dat" size="2048" crc="2af0ee66" sha1="a4f32c256c393a18afde5e3f3c67d7df1223999a"/>
+		<rom name="drkplt5h.dat" size="2048" crc="66ef3225" sha1="87f36a853c4a8ae40d1e3f0482b6e31c86f834f3"/>
 	</machine>
 	<machine name="ddragon2b">
 		<description>Double Dragon II - The Revenge (US, bootleg)</description>
@@ -5285,6 +5317,23 @@
 		<rom name="mp1_6.3m" size="8192" crc="f2d9647a" sha1="3cc216793c6a5f73c437ad2524563deb3b5e2890"/>
 		<rom name="mp1_7.3n" size="8192" crc="757cf2b6" sha1="8dfbf03953d5219d9eb5fc654ec3392442ba1dc4"/>
 	</machine>
+	<machine name="mars">
+		<description>Mars</description>
+		<year>1981</year>
+		<manufacturer>Artic</manufacturer>
+		<rom name="c01s.6e" size="32" crc="4e3caeab" sha1="a25083c3e36d28afdefe4af6e6d4f3155e303625"/>
+		<rom name="u26.3" size="2048" crc="2f88892c" sha1="580c7b502321868f63d9e67286e63b5c5268827c"/>
+		<rom name="u39.9" size="2048" crc="bb5968b9" sha1="8bc57fd80da7aff294e12e991e9acf60c1ab2893"/>
+		<rom name="u51.10" size="2048" crc="75fd7720" sha1="3ee4ca0d85ffacf0388cada17581da0cdaaf83ef"/>
+		<rom name="u56.4" size="2048" crc="9e6bcbf7" sha1="c3acdba073a1f3703776a7905867d81acf328f37"/>
+		<rom name="u69.5" size="2048" crc="df496e6e" sha1="b597e996ac797a239e4bc8f242f59c98a850723c"/>
+		<rom name="u72.1" size="2048" crc="279789d0" sha1="3ccf39da252df8b3605efc26299831279d697dd8"/>
+		<rom name="u78.11" size="2048" crc="72a492da" sha1="a272f72378850f7ecf52498746c2015f6dad3ab9"/>
+		<rom name="u98.6" size="2048" crc="75f274bb" sha1="2eb83ccc8404c69ab262bf680dce892c23c94f39"/>
+		<rom name="u101.2" size="2048" crc="c5dc627f" sha1="529307238707d0676d1cae508f4eb66bbdd623d7"/>
+		<rom name="u114.7" size="2048" crc="497fd8d0" sha1="545aaf1d68ff727df356bbcf8ddd23df75b5ce97"/>
+		<rom name="u133.8" size="2048" crc="3d4cd59f" sha1="da96d96a40a896e1272700c50cc34f91ac9f7a23"/>
+	</machine>
 	<machine name="maxrpm">
 		<description>Max RPM (ver 2)</description>
 		<year>1986</year>
@@ -5380,6 +5429,42 @@
 		<rom name="m1_f1.bin" size="2048" crc="e53c28a9" sha1="d9f081e73511ec43377f0c6457747f15a470d4dc"/>
 		<rom name="m2_j1.bin" size="2048" crc="64bd0408" sha1="141d053cb4cce3fece98293136928b527d3ade0f"/>
 		<rom name="mv_np3.bin" size="2048" crc="11d1c4ae" sha1="433c2c05b92094bbe102c356d7f1a907db13da67"/>
+	</machine>
+	<machine name="mimonkey">
+		<description>Mighty Monkey</description>
+		<year>1982</year>
+		<manufacturer>Universal Video Games</manufacturer>
+		<rom name="82s123.6e" size="32" crc="4e3caeab" sha1="a25083c3e36d28afdefe4af6e6d4f3155e303625"/>
+		<rom name="mm1.2e" size="4096" crc="9019f1b1" sha1="0c45f64e39b9a182f6162ab520ced6ef0686466c"/>
+		<rom name="mm2.2e" size="4096" crc="043e97d6" sha1="924c0165dfcf01182696b0d259718ac625573d9a"/>
+		<rom name="mm3.2f" size="4096" crc="1052726a" sha1="2fdd3064f02babd2d496a38c7aee094cb3666f24"/>
+		<rom name="mm4.2h" size="4096" crc="7b3f35ff" sha1="b52c46c3f166346d3b25cd2ab09781afc703de08"/>
+		<rom name="mm5.2j" size="4096" crc="b4e5c32d" sha1="18e53519e8f4e813109cfaf45f2f66444e6fa1a2"/>
+		<rom name="mm6.2l" size="4096" crc="409036c4" sha1="a9640da91156504bfc8fedcda30f81169b28a0c9"/>
+		<rom name="mm7.2m" size="4096" crc="119c08fa" sha1="6e19ab874b735fe7339bcf651111664263ea4ef9"/>
+		<rom name="mm8.2p" size="4096" crc="f7989f04" sha1="d6e301414a807f5e9feed92ce53ab73d6bd46c45"/>
+		<rom name="mm9.5f" size="4096" crc="92085b0c" sha1="a791703fa9f17e42450c871d902430fc3c6b10ef"/>
+		<rom name="mm10.5h" size="4096" crc="3828c9db" sha1="eaf9e81c803ad2be6c2db3104f07f80788378286"/>
+		<rom name="mm11.5f" size="4096" crc="9e0e9289" sha1="79d412dbceb364bc798feda658b15792feb63338"/>
+		<rom name="mm12.5h" size="4096" crc="f73a8412" sha1="9baf4336cceb9b039372b0a1c733910aeab5ec6d"/>
+		<rom name="mm13.11d" size="4096" crc="2d14c527" sha1="062414ce0415b6c471149319ecae22f465df3a4f"/>
+		<rom name="mm14.10d" size="4096" crc="35ed0f96" sha1="5aaacae5c2acf97540b72491f71ea823f5eeae1a"/>
+	</machine>
+	<machine name="minefld">
+		<description>Minefield</description>
+		<year>1983</year>
+		<manufacturer>Stern Electronics</manufacturer>
+		<rom name="ma15c" size="2048" crc="8bef736b" sha1="c5c7ce9c40e6fe60a4914b6bbd646ba6853c9043"/>
+		<rom name="ma15d" size="2048" crc="f67b3f97" sha1="bb15f95eab6594508b5c02af60ed9fff3abd23ee"/>
+		<rom name="ma15f" size="2048" crc="9f703006" sha1="95c1368b6a3e0cea6fa9406155d3b8d1eb9477f4"/>
+		<rom name="ma15h" size="2048" crc="ed0dccb1" sha1="f1554aa5a4d3a70936645e784a94305f642670df"/>
+		<rom name="ma22c" size="4096" crc="1367a035" sha1="25e415743a4cbe573a00b81155f6292592e32cdd"/>
+		<rom name="ma22e" size="4096" crc="68946d21" sha1="62f4501c6d2e8615b1f176e6cea9a75c912de23e"/>
+		<rom name="ma22f" size="4096" crc="7663aee5" sha1="eacb2283e0555176629a96e9b607f0477927d84c"/>
+		<rom name="ma22h" size="4096" crc="9787475d" sha1="161c6f35cc2ce2a88bcc2e9626ccfe1f5e099f28"/>
+		<rom name="ma22j" size="4096" crc="2ceceb54" sha1="c7385ce876582515f6b9a529e0101032056e14e7"/>
+		<rom name="ma22l" size="4096" crc="85138fc9" sha1="b3f2e483150583d2b4daf6a8a308a7f47a0e4f1b"/>
+		<rom name="minefld.clr" size="32" crc="1877368e" sha1="5850e03debe572f72abd91c756c0f8613018a962"/>
 	</machine>
 	<machine name="moonaln">
 		<description>Moon Alien</description>
@@ -7023,6 +7108,21 @@
 		<rom name="epr-5955.134" size="8192" crc="65ddb2a3" sha1="4f94eaac900da5ca512289e2339776b1139e03e1"/>
 		<rom name="pr-5317.106" size="256" crc="648350b8" sha1="c7986aa9127ef5b50b845434cb4e81dff9861cd2"/>
 	</machine>
+	<machine name="rescue">
+		<description>Rescue</description>
+		<year>1982</year>
+		<manufacturer>Stern Electronics</manufacturer>
+		<rom name="rb15acpu.bin" size="4096" crc="d7e654ba" sha1="6bcf7a6d86bc2de9a304f0aa9542fdcb58ca73dd"/>
+		<rom name="rb15bcpu.bin" size="4096" crc="a93ea158" sha1="c5550881d2a44f82eeb56d90487137d959c8c6ae"/>
+		<rom name="rb15ccpu.bin" size="4096" crc="058cd3d0" sha1="3f8962be982952adab23c1884cd3a9be5ddd4108"/>
+		<rom name="rb15csnd.bin" size="2048" crc="8b24bf17" sha1="cc49fef3c629c12f1a7eb9886fdc2df4b08f4b37"/>
+		<rom name="rb15dcpu.bin" size="4096" crc="d6505742" sha1="804df84ea507bf41e9376a7ce63a278c3701f0cd"/>
+		<rom name="rb15dsnd.bin" size="2048" crc="d96e4fb3" sha1="8bb023c7c668f93d2333d648fc3cefdbd66f92db"/>
+		<rom name="rb15ecpu.bin" size="4096" crc="604df3a4" sha1="15790fa442538632f232280c096ac788d9bf8117"/>
+		<rom name="rb15fcpu.bin" size="2048" crc="4489d20c" sha1="c7a2afbd2e5645a1a25dec6147d61a38ba12380f"/>
+		<rom name="rb15hcpu.bin" size="2048" crc="5512c547" sha1="e0f1c994daaa8933230cbc4bb88d459a698e0d8e"/>
+		<rom name="rescue.clr" size="32" crc="40c6bcbd" sha1="cb0c058eadc37eba4b1a99be095da81a14099d8d"/>
+	</machine>
 	<machine name="robotron12">
 		<description>Robotron: 2084 (2012 &#39;wave 201 start&#39; hack)</description>
 		<year>2012</year>
@@ -8402,6 +8502,21 @@
 		<rom name="decoder.5" size="512" crc="f921c5fe" sha1="9cebb8bb935315101d248140d1b4503993ebdf8a"/>
 		<rom name="sg.snd" size="2048" crc="2fcf6c4d" sha1="9c4334ac3ff15d94001b22fc367af40f9deb7d57"/>
 	</machine>
+	<machine name="stargrds">
+		<description>Star Guards</description>
+		<year>1987</year>
+		<manufacturer>Bally Midway</manufacturer>
+		<rom name="bg-0.15a" size="32768" crc="ecfaef3e" sha1="145b0543552e678ef441e4a20afe80cd21e43cf6"/>
+		<rom name="bg-1.14b" size="32768" crc="2c75569d" sha1="13808ff0fdb413a4ac6ddef1422b86c118277899"/>
+		<rom name="fg-0.8e" size="65536" crc="22797aaa" sha1="806ea29f8a43f104d3154322f492e7fa053da751"/>
+		<rom name="fg-1.6e" size="65536" crc="413fa119" sha1="cb609db2e6694a5bb563afd6b28c19afe65a8487"/>
+		<rom name="fg-2.5e" size="65536" crc="7036cfe6" sha1="7778c5a8bf457ba0c1fa0e17978709e1f7ccb8a5"/>
+		<rom name="fg-3.4e" size="65536" crc="cc5cc003" sha1="afe8a0b0542c6f98de9386a07d6586af7de6bdf6"/>
+		<rom name="pro-0.3b" size="32768" crc="3ad94aa2" sha1="1e17ac70fddee1f3d0dd71172e15a7a256168a70"/>
+		<rom name="pro-1.5b" size="32768" crc="dba428b0" sha1="72efa2f02e95f05a5503ced136fbdf3fcdf57554"/>
+		<rom name="snd0.u7" size="32768" crc="7755a493" sha1="a888fba45a2a31de5b3082bfc5ccef94dafc4d16"/>
+		<rom name="snd1.u17" size="32768" crc="d98d14ae" sha1="51dbb97655ab8a389ca67f0e796ab57894f5bb32"/>
+	</machine>
 	<machine name="starjack">
 		<description>Star Jacker (Sega)</description>
 		<year>1983</year>
@@ -8443,6 +8558,57 @@
 		<rom name="star_jacker_a1_ic65.65" size="8192" crc="0ab1893c" sha1="97877f5d8be7a7b80bbf9fe8dae2acd47c411d64"/>
 		<rom name="star_jacker_a1_ic82.82" size="8192" crc="251d898f" sha1="353067a75d583d5f53ce2f473b52a35dd912639f"/>
 		<rom name="star_jacker_a1_ic86.86" size="16384" crc="6f2e1fd3" sha1="326d538551245fce67d0fdba85975e27093b7a93"/>
+	</machine>
+	<machine name="stratgys">
+		<description>Strategy X (Stern Electronics)</description>
+		<year>1981</year>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<rom name="2c.cpu" size="4096" crc="f2aaaf2b" sha1="1aa5d0696961bcd43a4659db0a53f443cd3d3985"/>
+		<rom name="2e.cpu" size="4096" crc="5873fdc8" sha1="9707c6f140cd7d51f8bd1e53f3c138491aa302d1"/>
+		<rom name="2f.cpu" size="4096" crc="532d604f" sha1="eaf314d98005caacde8d2ea6240043ebe10650a5"/>
+		<rom name="2h.cpu" size="4096" crc="82b1d95e" sha1="dc5e79e159990e76353dea7b54e52fadfc9f59ab"/>
+		<rom name="2j.cpu" size="4096" crc="66e84cde" sha1="c1e6b9fe0052fe1f521c943a69d60f65fa392147"/>
+		<rom name="2l.cpu" size="4096" crc="62b032d0" sha1="592866f801839550e60a515978a2d97dd414c87a"/>
+		<rom name="5f.cpu" size="2048" crc="f4aa5ddd" sha1="2be9c8d8b94c599d4ff12864cbbddd7301be9fb2"/>
+		<rom name="5h.cpu" size="2048" crc="548e4635" sha1="fb8d4d498a98b9d19504f1b6c86dfa0110dcc5a7"/>
+		<rom name="s1.bin" size="4096" crc="713a5db8" sha1="8ec41cb93cfd856dc5aecace6238240a5d114ce1"/>
+		<rom name="s2.bin" size="4096" crc="46079411" sha1="72bfc39979818309ac5a49654a825f9e4bd0236c"/>
+		<rom name="strategy.6e" size="32" crc="51a629e1" sha1="f9826202c91a4a3deb8d815cbaa107b29dce5835"/>
+		<rom name="strategy.10k" size="32" crc="d95c0318" sha1="83e5355fdca7b4e1fb5a0e6eeaacfbf9561e2c36"/>
+	</machine>
+	<machine name="stratgyx">
+		<description>Strategy X</description>
+		<year>1981</year>
+		<manufacturer>Konami</manufacturer>
+		<rom name="2c_1.bin" size="4096" crc="eec01237" sha1="619aaf6379064395a1166575f207d61c90731bb9"/>
+		<rom name="2e_2.bin" size="4096" crc="926cb2d5" sha1="241e7b0f0d7e20a79299696be28963fd01269e86"/>
+		<rom name="2f_3.bin" size="4096" crc="849e2504" sha1="0ec00a5c77e9d81d69f8b847a50f36af2dacc8d0"/>
+		<rom name="2h_4.bin" size="4096" crc="8a64069b" sha1="ccc0e0441360e3ed93f2a0dab70c3a66edad969f"/>
+		<rom name="2j_5.bin" size="4096" crc="78b9b898" sha1="158e11352d68ed9e4277efbcb7e927e9bdc662f8"/>
+		<rom name="2l_6.bin" size="4096" crc="20bae414" sha1="cd3c03d3b6a3abb64cb86cffa733d5494cb226f7"/>
+		<rom name="5f_c2.bin" size="2048" crc="7121b679" sha1="bf76c5b777d1f1468b31524bfe250a1bc4911b09"/>
+		<rom name="5h_c1.bin" size="2048" crc="d105ad91" sha1="fd30d001764cf37ae52bab010db27acdc35fece6"/>
+		<rom name="s1.bin" size="4096" crc="713a5db8" sha1="8ec41cb93cfd856dc5aecace6238240a5d114ce1"/>
+		<rom name="s2.bin" size="4096" crc="46079411" sha1="72bfc39979818309ac5a49654a825f9e4bd0236c"/>
+		<rom name="strategy.6e" size="32" crc="51a629e1" sha1="f9826202c91a4a3deb8d815cbaa107b29dce5835"/>
+		<rom name="strategy.10k" size="32" crc="d95c0318" sha1="83e5355fdca7b4e1fb5a0e6eeaacfbf9561e2c36"/>
+	</machine>
+	<machine name="strongx">
+		<description>Strong X</description>
+		<year>1982</year>
+		<manufacturer>bootleg</manufacturer>
+		<rom name="2f_3.bin" size="4096" crc="849e2504" sha1="0ec00a5c77e9d81d69f8b847a50f36af2dacc8d0"/>
+		<rom name="2h_4.bin" size="4096" crc="8a64069b" sha1="ccc0e0441360e3ed93f2a0dab70c3a66edad969f"/>
+		<rom name="2j_5.bin" size="4096" crc="78b9b898" sha1="158e11352d68ed9e4277efbcb7e927e9bdc662f8"/>
+		<rom name="2l_6.bin" size="4096" crc="20bae414" sha1="cd3c03d3b6a3abb64cb86cffa733d5494cb226f7"/>
+		<rom name="5f_c2.bin" size="2048" crc="7121b679" sha1="bf76c5b777d1f1468b31524bfe250a1bc4911b09"/>
+		<rom name="5h_c1.bin" size="2048" crc="d105ad91" sha1="fd30d001764cf37ae52bab010db27acdc35fece6"/>
+		<rom name="s1.bin" size="4096" crc="713a5db8" sha1="8ec41cb93cfd856dc5aecace6238240a5d114ce1"/>
+		<rom name="s2.bin" size="4096" crc="46079411" sha1="72bfc39979818309ac5a49654a825f9e4bd0236c"/>
+		<rom name="strategy.6e" size="32" crc="51a629e1" sha1="f9826202c91a4a3deb8d815cbaa107b29dce5835"/>
+		<rom name="strategy.10k" size="32" crc="d95c0318" sha1="83e5355fdca7b4e1fb5a0e6eeaacfbf9561e2c36"/>
+		<rom name="strongx.2d" size="4096" crc="c2f7268c" sha1="2943198d82d4bc7990b327c44bbce7e7eb011886"/>
+		<rom name="strongx.2e" size="4096" crc="91059422" sha1="c73b50bc4035bd7268628cf92b21acbafef0456e"/>
 	</machine>
 	<machine name="suprglob">
 		<description>Super Glob</description>
@@ -9189,6 +9355,21 @@
 		<rom name="ttu8.bin" size="8192" crc="6bfcb22a" sha1="7b895e3ae1e99f195bb32b052f801b58c63a401c"/>
 		<rom name="ttu17.bin" size="8192" crc="605d6c74" sha1="a6c2bc95cca372fa823ab256c9dd1f92b6ba45fd"/>
 		<rom name="ttu18.bin" size="8192" crc="bb25852c" sha1="7e0346b5e2fc16a87a157c868936978be6145e3e"/>
+	</machine>
+	<machine name="turtles">
+		<description>Turtles</description>
+		<year>1981</year>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<rom name="turt_snd.5c" size="4096" crc="f0c30f9a" sha1="5621f336e9be8acf986a34bbb8855ed5d45c28ef"/>
+		<rom name="turt_snd.5d" size="4096" crc="af5fc43c" sha1="8a49c55feba094b07380615cf0b6f0878c25a260"/>
+		<rom name="turt_vid.2c" size="4096" crc="ec5e61fb" sha1="3ca89800fda7a7e61f54d71d5302908be2706def"/>
+		<rom name="turt_vid.2e" size="4096" crc="fd10821e" sha1="af74602bf2454eb8f3b9bb5c425e2476feeecd69"/>
+		<rom name="turt_vid.2f" size="4096" crc="ddcfc5fa" sha1="2af9383e5a289c2d7fbe6cf5e5b1519c352afbab"/>
+		<rom name="turt_vid.2h" size="4096" crc="9e71696c" sha1="3dcdf5dc601c875fc9d8b9a46e3ef588e7478e0d"/>
+		<rom name="turt_vid.2j" size="4096" crc="fcd49fef" sha1="bb1e91b2e6d4b5a861bf37907ef6b198328d8d83"/>
+		<rom name="turt_vid.5f" size="2048" crc="c3ffd655" sha1="dee51d77be262a2944488e381541c10a2b6e5d83"/>
+		<rom name="turt_vid.5h" size="2048" crc="e5999d52" sha1="bc3f52cf6c6e19dfd2dacd1e8c9128f437e995fc"/>
+		<rom name="turtles.clr" size="32" crc="f3ef02dd" sha1="09fd795170d7d30f101d579f57553da5ff3800ab"/>
 	</machine>
 	<machine name="twotiger">
 		<description>Two Tigers (dedicated)</description>
